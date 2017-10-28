@@ -23,3 +23,4 @@ Go ahead and add a one line intro about you and add your favorite emoji which yo
 
 - Hi, my name is Rebecca and my favorite emoji is 💯
 
+- Hi I'm Joel and I like 🍸
